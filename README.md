@@ -1,4 +1,4 @@
-# Order System
+# Total Taxes
 
 Projeto feito no curso [Java COMPLETO 2023 Programação Orientada a Objetos +Projetos](https://www.udemy.com/course/java-curso-completo/) do professor Nélio Alves.
 
